@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "E_Comerce_Inventory_analysis"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "90f1dad4-aa21-4f3d-ac60-01143164469f"
+  }
+}
