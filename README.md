@@ -24,6 +24,9 @@ Before jumping in:
 - The change_type column was standardized.
 - Grouped change_type into categories (sales, manual, received).
 
+## Vizualization
+![](https://github.com/ESTHER-AKINTUNDE/Inventory_Analysis/blob/main/Dashboard.png)
+
 ## Key Insights:
 - Products with IDs: PROD0021, PROD0014, PROD0030 etc. were adjusted manually a lot, maybe a sign of error or backdoor processes.
 - A few Products such as PROD0004, PROD0011 and PROD0007 were frequently out of stock  leading to potential missed sales.
